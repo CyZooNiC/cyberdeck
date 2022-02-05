@@ -6,9 +6,12 @@
  - Ambilical Guide
  - Case brackets
 
+### PCB
+- SDR Controller
+
 ### Services used
  - https://blexon.com/ (Metal work)
- - (Stickers)
+ - https://www.tenstickers.ch/ (Stickers)
 
 ### BOM
  - Pelican case, PELI 1450 black
@@ -17,8 +20,7 @@
  - Toggle Switch guard https://secure.reichelt.com/ch/en/safety-covers-red-schutz-20-26-p105664.html
  - INA226 Voltage Current Monitor https://www.aliexpress.com/item/1005003463006131.html
  - SD extension: https://www.aliexpress.com/item/1005001928805506.html
- - LED mount
- https://www.aliexpress.com/item/1005002248561990.html?
+ - LED mount https://www.aliexpress.com/item/1005002248561990.html
  - ESP32 https://www.aliexpress.com/item/4000093420330.html
  - power connector: https://www.aliexpress.com/item/32872816780.html
  - charger: https://www.aliexpress.com/item/1005001638456602.html
@@ -45,6 +47,7 @@
  - keyboard https://www.aliexpress.com/item/4001224586963.html
  - water proof USB https://www.aliexpress.com/item/32902706764.html
  - water proof network https://www.aliexpress.com/item/32856098897.html
+ - Ambilical 180mm https://www.aliexpress.com/item/1005001568585310.html
 
 
 
