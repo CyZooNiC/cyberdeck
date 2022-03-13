@@ -3,7 +3,7 @@
 ### 3D Models
  - Lid Plate
  - Base Plate
- - Ambilical Guide
+ - Umbilical Guide
  - Case brackets
 
 ### PCB
@@ -47,7 +47,7 @@
  - keyboard https://www.aliexpress.com/item/4001224586963.html
  - water proof USB https://www.aliexpress.com/item/32902706764.html
  - water proof network https://www.aliexpress.com/item/32856098897.html
- - Ambilical 180mm https://www.aliexpress.com/item/1005001568585310.html
+ - Umbilical 180mm https://www.aliexpress.com/item/1005001568585310.html
 
 
 
