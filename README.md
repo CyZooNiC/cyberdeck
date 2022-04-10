@@ -14,8 +14,8 @@
  - https://www.tenstickers.ch/ (Stickers)
 
 ### BOM
- - Pelican case, PELI 1450 black
- - Raspberry Pi 3B
+ - Pelican case, PELI 1450 black https://www.brack.ch/peli-schutzkoffer-1450-schwarz-360008
+ - Raspberry Pi 3B https://rpilocator.com/?cat=PI3
  - Toggle Switches https://secure.reichelt.com/ch/en/lever-switch-to-10-a-1x-on-on-hs-636-h2-p105645.html
  - Toggle Switch guard https://secure.reichelt.com/ch/en/safety-covers-red-schutz-20-26-p105664.html
  - INA226 Voltage Current Monitor https://www.aliexpress.com/item/1005003463006131.html
@@ -39,7 +39,7 @@
  - OLED display https://www.aliexpress.com/item/33027484504.html
  - Pannel buttons https://www.aliexpress.com/item/1005001732343587.html
  - gigabit switch https://www.aliexpress.com/item/32991083909.html
- - RTL SDR 
+ - RTL SDR https://www.aliexpress.com/item/1005001271827620.html
  - DIN rail https://www.aliexpress.com/item/4000126680453.html
  - jack dust covers https://www.aliexpress.com/item/4000484462480.html
  - pannel ports https://www.aliexpress.com/item/4000102342780.html
