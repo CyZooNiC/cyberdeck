@@ -27,6 +27,7 @@
  - keypad: https://www.aliexpress.com/item/4000873237364.html
  - black screws https://www.aliexpress.com/item/1005001711625966.html
  - 3S2 Battery BMS https://www.aliexpress.com/item/4000648416374.html
+ - HDMI cables between top and bottom https://www.aliexpress.com/item/4001090468470.html
  - Batteries https://www.aliexpress.com/item/32324914059.html
  - USB audio https://www.aliexpress.com/item/33056020608.html
  - USB hub https://www.aliexpress.com/item/4000292920801.html
